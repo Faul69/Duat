@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 725866bd3b4d5974abb1647a2b36beba, type: 3}
+  m_Name: RedSad
+  m_EditorClassIdentifier: 
+  _label: RedSad
+  _color: Red
+  _body: {fileID: 6206934307260379634, guid: 24792ee0d127afc418933d0e74e5eeae, type: 3}
+  _isPickeble: 0

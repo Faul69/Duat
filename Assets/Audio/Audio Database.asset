@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4645132edefd4c74968a0c941a98fb89, type: 3}
+  m_Name: Audio Database
+  m_EditorClassIdentifier: 
+  _items:
+  - Clip: {fileID: 8300000, guid: cd993fc2213d1d445a7c8bb873ec0aa9, type: 3}
+    Key: ButtonClick
+    FolderPath: Audio\
+    Name: buttonClick.mp3
+    Preload: 1
+    _id: ca841963-511f-4626-8404-a28febc39998
+  - Clip: {fileID: 8300000, guid: 0c6ef048574a9a24ca4f988e9c4a130c, type: 3}
+    Key: ComboLow
+    FolderPath: Audio\
+    Name: comboSoundLow.mp3
+    Preload: 1
+    _id: a4350ae2-8802-460b-8d86-a1605c3e7d52
+  - Clip: {fileID: 8300000, guid: 49d7b585581466148a71df25ccc50916, type: 3}
+    Key: ComboMid
+    FolderPath: Audio\
+    Name: comboSoundMid.mp3
+    Preload: 1
+    _id: 5eaec9fb-0899-4690-a63c-7ed4640c778b
+  - Clip: {fileID: 8300000, guid: e9885fe61a8431442be6c9847294efa2, type: 3}
+    Key: ComboStrong
+    FolderPath: Audio\
+    Name: comboSoundStrong.mp3
+    Preload: 1
+    _id: a96d76d4-d72c-4ce0-b310-94401d01f8e3
+  - Clip: {fileID: 8300000, guid: cce558247f14c104abd5f331bcaca081, type: 3}
+    Key: LooseSound
+    FolderPath: Audio\
+    Name: loose.mp3
+    Preload: 1
+    _id: 49f9023d-caa0-480d-b43c-af68ddb06d6e
+  - Clip: {fileID: 8300000, guid: a7039ab267ea95b4bb7e2dc7a99fafc3, type: 3}
+    Key: ThrowSoul
+    FolderPath: Audio\
+    Name: throwSoul.mp3
+    Preload: 1
+    _id: e2304918-3048-4f8a-b523-a0e30c3685dc
+  - Clip: {fileID: 8300000, guid: 5249f33e1e363e44fb26d104e20e3a4f, type: 3}
+    Key: WinSound
+    FolderPath: Audio\
+    Name: win.mp3
+    Preload: 1
+    _id: 935b7a97-4ff7-42e9-9950-cf346faa39ca
+  - Clip: {fileID: 8300000, guid: bf214c6685a8bb64eb3a04123a069838, type: 3}
+    Key: PickSoul
+    FolderPath: Audio\
+    Name: pickSoul.mp3
+    Preload: 1
+    _id: f3de2724-22e9-402c-92e6-19ee76924290
